@@ -1,0 +1,1 @@
+This simple web application allows users to manage tasks by adding new tasks and removing completed tasks. Add Task Enter a task in the input box and click the "Add" button or press Enter to add it to the list. Remove Task Click the delete button (✖) next to a task to remove it from the list.
